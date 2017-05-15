@@ -1,4 +1,4 @@
-CSc 220        Assignment 3. (Due April 26, 2017)       Instructor: James Wong
+CSC 220        Assignment 3. (Due April 26, 2017)       Instructor: James Wong
 ==============================================================================
 
 1. Introduction 
