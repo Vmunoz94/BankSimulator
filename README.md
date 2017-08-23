@@ -1,4 +1,4 @@
-CSC 220        Assignment 3. (Due April 26, 2017)       Instructor: James Wong
+CSC 220 Programming Project#3
 ==============================================================================
 
 1. Introduction 
@@ -131,9 +131,8 @@ out statistics and conclude simulation.
   upload it to ilearn.
 
 
-=====================================================================================
 SAMPLE RUN
-=====================================================================================
+========================================================================
 
 => Java PJ3.Customer
 Customer Info:customerID=1:transactionTime=5:arrivalTime=18:finishTime=28
